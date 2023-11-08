@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 18000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 90,
+      "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 2000,
+      "createdAt": "2022-07-29T19:18:44.505Z"
+    },
+    {
+      "description": "Pastel",
+      "price": 8,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-11-07T17:29:37.415Z",
+      "id": 4
+    },
+    {
+      "description": "Codi Academy",
+      "price": 1200,
+      "category": "Educação",
+      "type": "outcome",
+      "createdAt": "2023-11-07T17:30:06.295Z",
+      "id": 5
+    },
+    {
+      "description": "Acerto Brasil Auto Center",
+      "price": 8900,
+      "category": "Entrada",
+      "type": "income",
+      "createdAt": "2023-11-07T17:44:51.820Z",
+      "id": 6
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 16000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-11-07T18:31:53.963Z",
+      "id": 7
+    },
+    {
+      "description": "Gasolina",
+      "price": 30,
+      "category": "Veículo",
+      "type": "outcome",
+      "createdAt": "2023-11-07T22:00:32.227Z",
+      "id": 8
+    }
+  ]
+}
