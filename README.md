@@ -31,7 +31,7 @@ Trabalhamos com Hooks nativos do React como:
 
 > Clone o repositório
 ```
-  git clone 
+  git clone https://github.com/brunogoncalvesferreira/dt_money.git
 ```
 
 > Acesse a pasta
