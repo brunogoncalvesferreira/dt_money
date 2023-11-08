@@ -1,6 +1,6 @@
 # Projeto 3 ignite - DT Money
 
-Neste projeto construimos uma aplicação frontend web completa, conectando a uma API e trabalhamos como performar aplicações React entendendo como funciona os algoritmos iternos da biblioteca e todo fluxo de renderização de componentes.
+Neste projeto construimos uma aplicação frontend web completa, conectando a uma API e trabalhamos como performar aplicações React entendendo como funciona os algoritmos internos da biblioteca e todo fluxo de renderização de componentes.
 
 <br>
 
